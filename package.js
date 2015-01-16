@@ -1,6 +1,6 @@
 Package.describe({
         name: 'xaiki:leaflet-styledlayercontrol',
-        summary: "A Leaflet plugin that implements the management and control of layers by organization into categories or groups.",
+        summary: "A Leaflet plugin that manages layers by organization into categories or groups.",
         version: '1.0.0',
         git: 'https://github.com/xaiki/Leaflet.StyledLayerControl'
 });
