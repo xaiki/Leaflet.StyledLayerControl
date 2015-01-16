@@ -7,7 +7,7 @@ Package.describe({
 
 Package.onUse(function (api) {
         api.versionsFrom('1.0.2.1');
-        api.use(['mrt:leaflet'], 'client');
+        api.use(['mrt:leaflet@1.0.0'], 'client');
 
         api.addFiles('css/images/delete.png', 'client');
         api.addFiles('css/images/layers.png', 'client');
